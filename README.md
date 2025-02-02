@@ -28,6 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tvnkhanh&show_icons=true&locale=en" alt="tvnkhanh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tvnkhanh&" alt="tvnkhanh" /></p>
-<!--
-![LeetCode Stats](https://leetcard.jacoblin.cool/tvnkhanh?theme=unicorn&font=IBM%20Plex%20Sans%20Arabic&ext=heatmap)
--->
+<p><img align="center" src="https://leetcard.jacoblin.cool/tvnkhanh?theme=unicorn&font=IBM%20Plex%20Sans%20Arabic&ext=heatmap" alt="tvnkhanh" /></p>
